@@ -1,4 +1,11 @@
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
 
 :root {
   --background: #ffffff;
@@ -24,3 +31,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-glow {
+  background: radial-gradient(circle at 50% 30%, rgba(59,130,246,0.25), transparent 60%),
+              radial-gradient(circle at 80% 70%, rgba(147,51,234,0.25), transparent 60%),
+              radial-gradient(circle at 20% 80%, rgba(236,72,153,0.25), transparent 60%);
+}
+
