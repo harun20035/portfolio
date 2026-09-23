@@ -6,26 +6,26 @@ export default function AboutSection() {
       </h2>
 
       <p className="text-gray-300 leading-7 text-lg mb-4">
-        Hi! I'm Harun Hasagić, a final-year IT student at the Faculty of Science 
-        in Sarajevo with experience in full-stack development. 
-        I enjoy building modern, scalable web applications using modern technologies like
-        <span className="text-blue-400"> Next.js, React.js, Node.js, Express.js, FastAPI,</span> and 
+        Hi! I'm Harun Hasagić, an IT graduate from the Faculty of Science and Mathematics in Sarajevo with practical experience in full-stack development.
+        I enjoy building modern, scalable web applications using technologies such as
+        <span className="text-blue-400"> Next.js, React.js, Node.js, Express.js, FastAPI,</span> and
         <span className="text-blue-400"> PostgreSQL</span>.
       </p>
 
       <p className="text-gray-300 leading-7 text-lg mb-4">
-        Throughout my studies and personal projects, I gained experience 
-        in both frontend and backend development, REST API design, 
-        and clean, maintainable code architecture (MVC, reusable components, 
-        modular backend structure).
+        Through university, internships, and personal projects, I have gained experience
+        in both frontend and backend development, REST API design,
+        and building clean, maintainable software using approaches such as
+        MVC, reusable components, and modular backend architecture.
       </p>
 
       <p className="text-gray-300 leading-7 text-lg">
-        I'm passionate about constant learning, building real-world solutions, 
-        and improving my skills through hands-on development. 
-        Currently, I'm seeking an opportunity where I can grow professionally 
-        and contribute to meaningful projects.
+        I'm passionate about continuous learning, solving real-world problems,
+        and improving my skills through hands-on development.
+        I'm currently looking for an opportunity where I can contribute to meaningful projects,
+        grow as a software developer, and continue developing my full-stack skills.
       </p>
+
     </section>
   );
 }
