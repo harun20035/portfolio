@@ -57,8 +57,9 @@ export default function HeroSection() {
         </h2>
 
         <p className="text-gray-400 mb-8 text-lg">
-          A final-year IT student focused on crafting modern, user-friendly digital products. 
-          I enjoy transforming ideas into functional solutions and constantly improving my skills through real projects.
+          An IT graduate focused on crafting modern, user-friendly digital products.
+          I enjoy transforming ideas into functional solutions and continuously improving my skills through real-world projects.
+
         </p>
 
         <div className="flex justify-center md:justify-start space-x-6">
