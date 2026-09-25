@@ -75,7 +75,7 @@ export default function HeroSection() {
 
           {/* Download CV button */}
           <a
-            href="/Harun_Hasagic_CV1.pdf"
+            href="/Harun_Hasagic_CV3.pdf"
             download
             className="px-6 py-3 border border-gray-500 rounded-md font-semibold text-white
                        transition-transform transform hover:scale-105 hover:border-white
