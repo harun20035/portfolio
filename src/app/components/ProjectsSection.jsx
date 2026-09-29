@@ -26,6 +26,11 @@ export default function ProjectsSection() {
       title: "3d-app",
       tech: "Next.js, Firebase, Three.js, React-Three-Fiber",
       link: "https://github.com/harun20035/3d-app"
+    },
+    {
+      title: "SmartDocs - Document Management System",
+      tech: "Next.js, React.js, FastAPI, PostgreSQL",
+      link: "https://github.com/harun20035/SmartDocs"
     }
   ];
 
